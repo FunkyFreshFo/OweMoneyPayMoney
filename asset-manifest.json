@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OweMoneyPayMoney/static/css/main.717320dc.css",
+    "main.js": "/OweMoneyPayMoney/static/js/main.fb780f99.js",
+    "static/js/787.a72053f2.chunk.js": "/OweMoneyPayMoney/static/js/787.a72053f2.chunk.js",
+    "index.html": "/OweMoneyPayMoney/index.html",
+    "main.717320dc.css.map": "/OweMoneyPayMoney/static/css/main.717320dc.css.map",
+    "main.fb780f99.js.map": "/OweMoneyPayMoney/static/js/main.fb780f99.js.map",
+    "787.a72053f2.chunk.js.map": "/OweMoneyPayMoney/static/js/787.a72053f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717320dc.css",
+    "static/js/main.fb780f99.js"
+  ]
+}
